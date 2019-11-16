@@ -108,7 +108,7 @@ a {
 }
 
 .main-container {
-    height: 80vh;
+    height: 90vh;
     position: relative;
 }
 
@@ -219,7 +219,7 @@ td {
 .nav-wrapper {
     position: absolute; 
     right: 0;
-    bottom: 0;
+    bottom: 30px;
 }
 .nav-pages{
     width: 20%;
@@ -242,9 +242,4 @@ td {
     border: 1px solid #20232A;
 }
 
-.footer {
-    width: 100%;
-    height: 10vh;
-    border: 1px solid #20232A;
-}
 
