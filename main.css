@@ -217,6 +217,7 @@ td {
 }
 
 .td-img {
+    width:80px;
     min-width: 45px;
 }
 
